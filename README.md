@@ -1,5 +1,5 @@
 # GiftBot 🎁
-A chat-style gifting assistant that recommends 5 gift ideas with buy links using web-search powered RAG, with preference weighting for Pinterest/Etsy signals.
+An AI chatbot-style gifting assistant that recommends 5 gift ideas with buy links using web-search powered RAG, with preference weighting for Pinterest/Etsy signals.
 
 ## Features
 - Profile-driven gift suggestions (recipient, age, personality, occasion, budget, no-go list)
